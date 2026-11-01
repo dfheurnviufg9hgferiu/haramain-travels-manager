@@ -1,2 +1,2 @@
-# haramain-travels-manager
+# haramain-move-manager
 Haramain Travel Shopify app
