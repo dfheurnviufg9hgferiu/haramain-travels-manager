@@ -1,2 +1,2 @@
 # haramain-move-manager
-Haramain Travel Shopify app
+Haramain Move Shopify app
